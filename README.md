@@ -2,7 +2,7 @@
 
 
 
-A full-featured AI wardrobe management app built with Python and Streamlit. Chérie helps you plan outfits, make smarter purchase decisions, track your wardrobe ROI, and explore deep data science analytics — all from a beautiful, feminine dashboard.
+A full-featured AI wardrobe management app built with Python and Streamlit. Chérie helps you plan outfits, make smarter purchase decisions, track your wardrobe ROI, and explore deep data science analytics all from a beautiful, feminine dashboard.
 
 ---
 
@@ -21,7 +21,7 @@ A full-featured AI wardrobe management app built with Python and Streamlit. Ché
 - Wardrobe mix breakdown (items per category)
 
 ### 🛍️ Shopping Advisor
-- AI purchase advisor gives clear **BUY ✦ / SKIP ✗ / WAIT ◇** recommendations
+- AI purchase advisor gives recommendations
 - Analyses wardrobe gaps, cost-per-wear projections, and outfit synergies
 - Spending summary panel + underutilised items list
 
@@ -170,4 +170,3 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-*Made with 🌸 and a lot of Python*
