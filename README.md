@@ -164,9 +164,4 @@ Analytics → Pandas + NumPy compute stats → Streamlit charts render
 
 ---
 
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
-
----
 
